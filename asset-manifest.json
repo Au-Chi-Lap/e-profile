@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/e-profile/static/css/main.327a1b6b.css",
+    "main.js": "/e-profile/static/js/main.64d1b2c0.js",
+    "static/js/787.2971063f.chunk.js": "/e-profile/static/js/787.2971063f.chunk.js",
+    "static/media/home_bg.mp4": "/e-profile/static/media/home_bg.bbadc85fda16cf182bae.mp4",
+    "static/media/jobdoc.mp4": "/e-profile/static/media/jobdoc.88f68c710309f0f94b27.mp4",
+    "static/media/personal.mp4": "/e-profile/static/media/personal.263ab30bd5fd6e11d099.mp4",
+    "static/media/DSE.jpg": "/e-profile/static/media/DSE.e420c014f1b797f17ab8.jpg",
+    "static/media/U_cert.jpg": "/e-profile/static/media/U_cert.7f43c91ac9866ac60fe6.jpg",
+    "static/media/ref_letter_1.jpg": "/e-profile/static/media/ref_letter_1.296ec95de2fa426c5113.jpg",
+    "static/media/ref_letter_intern.jpg": "/e-profile/static/media/ref_letter_intern.2e0b9aad5ae486d05c22.jpg",
+    "static/media/front_page.jpeg": "/e-profile/static/media/front_page.b899c6fcf2bf8fecd5e7.jpeg",
+    "index.html": "/e-profile/index.html",
+    "main.327a1b6b.css.map": "/e-profile/static/css/main.327a1b6b.css.map",
+    "main.64d1b2c0.js.map": "/e-profile/static/js/main.64d1b2c0.js.map",
+    "787.2971063f.chunk.js.map": "/e-profile/static/js/787.2971063f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327a1b6b.css",
+    "static/js/main.64d1b2c0.js"
+  ]
+}
