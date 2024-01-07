@@ -36,7 +36,10 @@ function Home(){
           <p id="intro_content">
             I am a graduate of the University of Hong Kong. Majoring in Computer Engineering. In my 4-year study, 
             I immerse myself in the diverse world of programming, exploring different languages, such as javascript, python
-            and c++.
+            and c++. <br/><br/>
+            Apart from programming, I also want to explore myself in different ways. So I have also tried to learn more about
+            the aviation industry, through taking an ICAO course from HKU Space. And searching different interested topics related
+            to aviation industry.
           </p>
         </div>
       </div>
@@ -116,14 +119,17 @@ function Personal(){
             <td>
               <p>Front-end developer</p>
               <p id="front-end">
-                  Among different field in the IT industry, the reason why I want to be a front-end developer is the satisfaction of work. 
+                  Among different field in the IT industry, the reason why I want to be a front-end developer is the satisfaction of work. Other than backend developer,
+                  front-end developers may easily view their own products. Their code may be visually shown as an interface. To be a better front-end developer, apart from 
+                  react and node.js, I am currently self-studying SQL. 
               </p>
             </td>
             <td>
               <p>Pilot</p>
               <p id="pilot">
                   I would like to be a pilot because of the excitement from controlling the plane. Pilots will face different situations during the flight, 
-                  these variations of the flight make 
+                  these variations of the flight make the experience of each flight becomes unique. Which is a characteristic that I loved about this job, 
+                  as it would not make me feel bored by doing things over and over again for years.
               </p>
             </td>
           </tr>
